@@ -296,7 +296,7 @@
 <section>
   <h2>Technical skills</h2>
   <ul class="list-to-commas">
-    <li>Javascript</li>
+    <li>Javascript/Typescript</li>
     <li>AngularJS</li>
     <li>Vue.js</li>
     <li>React</li>
@@ -304,22 +304,23 @@
     <li>SASS</li>
     <li>SQL</li>
     <li>PHP</li>
-          <li>Laravel</li>
-          <li>C#</li>
-          <li>Java</li>
-          <li>.NET Core</li>
+    <li>Laravel</li>
+    <li>C#</li>
+    <li>Java</li>
+    <li>.NET Core</li>
     <li>Node.js</li>
-    <li>Lambda</li>
+    <li>Lambda functions</li>
     <li>Linux</li>
     <li>Git</li>
     <li>Bash</li>
     <li>Docker</li>
     <li>Vagrant</li>
-          <li>Webpack</li>
-          <li>Rollup</li>
+    <li>Webpack</li>
+    <li>Rollup</li>
+    <li>Vite</li>
     <li>Jasmine</li>
     <li>Karma</li>
     <li>Jest</li>
-          <li>Cypress</li>
+    <li>Cypress</li>
   </ul>
 </section>
