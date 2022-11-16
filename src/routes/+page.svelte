@@ -64,6 +64,8 @@
     aside {
       display: flex;
       align-items: flex-start;
+      flex-wrap: wrap;
+      justify-content: center;
       margin-bottom: 2em;
     }
 
