@@ -1,0 +1,116 @@
+:root {
+  --heading-fontstack: 'Arial Black', 'Arial Bold', Gadget, sans-serif;
+  --body-fontstack: Georgia, Times, 'Times New Roman', serif;
+  --background-colour: #e5e5dc;
+  --foreground-colour: #26495c;
+  --link-colour: #c66b3d;
+  --link-hover-colour: #e69871;
+  --accent-colour: #c4a35a;
+}
+
+html, body {
+  background: var(--background-colour, white);
+  color: var(--foreground-colour, black);
+}
+
+html.dark, html.dark body {
+  background: var(--foreground-colour, black);
+  color: var(--background-colour, white);
+}
+
+@media (prefers-color-scheme: dark) {
+  html, html body {
+    background: var(--foreground-colour, black);
+    color: var(--background-colour, white);
+  }
+}
+
+body {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 1rem;
+  padding-top: 2em;
+}
+
+* {
+  font-family: var(--body-fontstack);
+  font-size: 16px;
+  line-height: 22px;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--heading-fontstack);
+  font-weight: normal;
+  margin-bottom: 0.6em;
+}
+
+h1 {
+  font-size: 70px;
+  line-height: 72px;
+  letter-spacing: -5px;
+}
+
+h2 {
+  font-size: 50px;
+  line-height: 52px;
+  letter-spacing: -3px;
+}
+
+p {
+  margin-bottom: 1em;
+}
+
+a {
+  color: var(--link-colour, blue);
+}
+
+a:hover {
+  color: var(--link-hover-colour, lightblue);
+}
+
+hr {
+  width: 60%;
+  margin: 3em auto;
+  border: 0;
+  border-bottom: 1px solid var(--foreground-colour);
+}
+
+html.dark hr {
+  border-bottom-color: var(--background-colour);
+}
+
+@media (prefers-color-scheme: dark) {
+  html hr {
+    border-bottom-color: var(--background-colour);
+  }
+}
+
+.overlay-link {
+  position: static;
+}
+.overlay-link:hover, .overlay-link:focus, .overlay-link:active {
+    text-decoration: underline;
+}
+.overlay-link:before {
+    bottom: 0;
+    content: '';
+    left: 0;
+    overflow: hidden;
+    position: absolute;
+    right: 0;
+    top: 0;
+    white-space: nowrap;
+    z-index: 1;
+}
+
+.code,
+code {
+  padding: 0 0.25rem;
+  background: #eee;
+  border-radius: 3px;
+  margin-right: 0.5rem;
+  font-family: monospace;
+  display: inline-block;
+}

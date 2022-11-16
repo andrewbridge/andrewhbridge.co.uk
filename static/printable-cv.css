@@ -1,0 +1,20 @@
+@page {
+  margin: 1.5rem;
+}
+
+@media print {
+  body #site-header {
+    display: none !important;
+  }
+
+  html, body {
+    padding: 0;
+    font-size: 14px;
+    background: white !important;
+    color: black !important;
+  }
+
+  .screen-only {
+    display: none;
+  }
+}
