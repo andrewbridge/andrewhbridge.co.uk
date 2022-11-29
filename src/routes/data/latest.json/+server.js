@@ -1,3 +1,5 @@
+export const prerender = true;
+
 /** @type {import('./$types').RequestHandler} */
 export async function GET({ url, locals, fetch }) {
     const posts = await fetch('./posts.json').then(r => r.json());

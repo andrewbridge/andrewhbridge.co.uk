@@ -1,6 +1,8 @@
 import { AUDIOXIDE_API, AUDIOXIDE_BASE, BLOG_POST_FEED } from '$env/static/private';
 import { JSDOM } from 'jsdom';
 
+export const prerender = true;
+
 /** @type {import('./$types').RequestHandler} */
 export async function GET({ url, locals }) {
     const [blogPosts, audioxideReviews, audioxideArticles] = await Promise.all([

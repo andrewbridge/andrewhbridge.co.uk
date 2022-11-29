@@ -1,6 +1,8 @@
 import { BLOG_POST_FEED } from '$env/static/private';
 import { decode } from 'html-entities';
 
+export const prerender = true;
+
 /** @type {import('./$types').RequestHandler} */
 export async function GET({ url, locals }) {
     const blogPosts = await fetch(BLOG_POST_FEED).then(r => r.json());
