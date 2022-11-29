@@ -70,6 +70,32 @@ a:hover {
   color: var(--link-hover-colour, lightblue);
 }
 
+blockquote {
+  font-style: italic;
+  padding-left: 20px;
+  position: relative;
+}
+
+blockquote::before {
+  content: '';
+  height: 100%;
+  width: 5px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--foreground-colour, black);
+}
+
+html.dark blockquote::before {
+  background-color: var(--background-colour, white);
+}
+
+@media (prefers-color-scheme: dark) {
+  html blockquote::before {
+    background-color: var(--background-colour, white);
+  }
+}
+
 hr {
   width: 60%;
   margin: 3em auto;

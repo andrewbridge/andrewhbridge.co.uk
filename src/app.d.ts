@@ -6,4 +6,10 @@ declare namespace App {
 	// interface PageData {}
 	// interface Error {}
 	// interface Platform {}
+
+	interface PrivateEnv {
+		BLOG_POST_FEED: string;
+		AUDIOXIDE_API: string;
+		AUDIOXIDE_BASE: string;
+	}
 }
