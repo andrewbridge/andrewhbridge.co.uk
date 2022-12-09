@@ -22,9 +22,17 @@
         border-bottom-color: var(--background-color, white);
     }
 
+    :global(html.dark) a {
+        color: var(--background-color, white);
+    }
+
     @media (prefers-color-scheme: dark) {
         :global(html) header {
             border-bottom-color: var(--background-color, white);
+        }
+
+        a {
+            color: var(--background-color, white);
         }
     }
 </style>
@@ -33,6 +41,6 @@
     <SiteLogo />
     <nav>
         <!-- <a href="/about">About</a> -->
-        <!-- <a href="/blog">Blog</a> -->
+        <a href="/blog">Blog</a>
     </nav>
 </header>
