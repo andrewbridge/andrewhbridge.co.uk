@@ -49,17 +49,22 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 70px;
   line-height: 72px;
-  letter-spacing: -5px;
+  letter-spacing: -4px;
 }
 
 h2 {
   font-size: 50px;
   line-height: 52px;
-  letter-spacing: -3px;
+  letter-spacing: -2px;
 }
 
 p {
   margin-bottom: 1em;
+}
+
+li, p {
+  line-height: 1.5em;
+  letter-spacing: -.2px;
 }
 
 a {
@@ -139,4 +144,8 @@ code {
   margin-right: 0.5rem;
   font-family: monospace;
   display: inline-block;
+}
+
+ul, ol {
+  padding: 1em;
 }
