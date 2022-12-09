@@ -1,6 +1,7 @@
 <script>
 	import AboutBlurb from "$lib/components/AboutBlurb.svelte";
 	import AvatarSticker from "$lib/components/AvatarSticker.svelte";
+	import ExternalLinkIcon from "$lib/components/ExternalLinkIcon.svelte";
 	import SocialLinks from "$lib/components/SocialLinks.svelte";
 
     /** @type {import('./$types').PageData} */
@@ -89,7 +90,7 @@
         <div class="entries">
             {#each data.latest.posts as post}
                 <div class="entry">
-                    <a class="overlay-link" href={post.url}>{post.title}</a>
+                    <a class="overlay-link" href={post.url}>{post.title}{#if post.source !== 'local'}&nbsp;<ExternalLinkIcon size={12} />{/if}</a>
                     <p class="metadata">{#if post.source !== 'local'}{post.source} · {/if}{new Date(post.created).toDateString()}</p>
                     <p>{post.excerpt}</p>
                 </div>
