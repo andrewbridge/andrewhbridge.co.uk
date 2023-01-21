@@ -1,5 +1,5 @@
 <style>
-    a.logo {
+    a.logo, :global(html.light) a.logo {
         position: relative;
         font-family: var(--heading-fontstack);
         font-size: 24px;

@@ -8,7 +8,7 @@
   --accent-colour: #c4a35a;
 }
 
-html, body {
+html, body, html.light, html.light body {
   background: var(--background-colour, white);
   color: var(--foreground-colour, black);
 }
@@ -124,7 +124,7 @@ blockquote {
   position: relative;
 }
 
-blockquote::before {
+blockquote::before, html.light blockquote::before {
   content: '';
   height: 100%;
   width: 5px;
@@ -144,7 +144,7 @@ html.dark blockquote::before {
   }
 }
 
-hr {
+hr, html.light hr {
   width: 60%;
   margin: 3em auto;
   border: 0;

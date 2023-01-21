@@ -1,5 +1,5 @@
 <style>
-    img {
+    img, :global(html.light) img {
         border-radius: 200px;
         box-shadow: 0 0 3px rgba(0,0,0,0.25);
         border: 10px solid whitesmoke;

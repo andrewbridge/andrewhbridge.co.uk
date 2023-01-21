@@ -5,6 +5,23 @@
 		<link rel="icon" href="%sveltekit.assets%/favicon.png" />
 		<meta name="viewport" content="width=device-width" />
 		%sveltekit.head%
+		<script type="text/javascript">
+			let defaultState = 'dark';
+			if (window.matchMedia && window.matchMedia('(prefers-color-scheme: light)').matches) {
+				defaultState = 'light';
+			}
+			const initialState = window.sessionStorage.getItem('color-scheme') || defaultState;
+			const html = document.documentElement;
+			html.classList.add(initialState);
+			document.addEventListener('DOMContentLoaded', () => {
+				document.querySelector('.dark-mode-toggle').addEventListener('click', () => {
+					html.classList.toggle('light');
+					html.classList.toggle('dark');
+					const newState = html.classList.contains('light') ? 'light' : 'dark';
+					window.sessionStorage.setItem('color-scheme', newState);
+				}, false);
+			}, false);
+		</script>
 	</head>
 	<body>
 		<div style="display: contents">%sveltekit.body%</div>
