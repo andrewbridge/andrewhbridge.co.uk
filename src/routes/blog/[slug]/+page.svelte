@@ -30,7 +30,6 @@
     .content :global(.wp-block-code code) {
         width: 100%;
         padding: 8px;
-        overflow-x: auto;
     }
 
     .content :global(.has-text-align-center) {
