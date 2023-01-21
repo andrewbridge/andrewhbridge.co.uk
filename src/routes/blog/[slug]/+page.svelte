@@ -51,5 +51,10 @@
     }
 </style>
 
+<svelte:head>
+    <title>{title} | Andrew Bridge</title>
+    <link href="https://unpkg.com/prismjs@1.29.0/themes/prism.min.css" rel="stylesheet" />
+</svelte:head>
+
 <h1>{@html title}</h1>
 <div class="content">{@html content}</div>
