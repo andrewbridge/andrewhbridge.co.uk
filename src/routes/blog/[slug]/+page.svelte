@@ -2,10 +2,21 @@
     /** @type {import('./$types').PageData} */
     export let data;
 
-    const { title: { rendered: title }, content: { rendered: content }} = data.post;
+    const { title: { rendered: title }, date, content: { rendered: content }} = data.post;
 </script>
 
 <style>
+    h1 {
+        margin-bottom: 0;
+    }
+
+    h1 + time {
+        margin-bottom: 42px;
+        display: block;
+        font-style: italic;
+        opacity: 0.8;
+    }
+
     .content :global(p), .content :global(li), .content :global(li *) {
         font-size: 18px;
     }
@@ -56,4 +67,5 @@
 </svelte:head>
 
 <h1>{@html title}</h1>
+<time datetime={new Date(date).toISOString()}>{new Date(date).toDateString()}</time>
 <div class="content">{@html content}</div>
