@@ -14,10 +14,11 @@ export async function GET({ url, locals }) {
     const normalisedBlogPosts = blogPosts.filter(({ categories }) => !categories.includes(3136)).map(({ slug, date_gmt, title: { rendered: title }, excerpt: { rendered: excerpt } }) => {
         const excerptDOM = new JSDOM(excerpt);
         excerptDOM.window.document.querySelector('.more-link')?.remove();
+        const titleDOM = new JSDOM(title);
         return {
             created: date_gmt,
             url: `/blog/${slug}`,
-            title,
+            title: titleDOM.window.document.body.textContent,
             excerpt: excerptDOM.window.document.body.textContent,
             source: 'local',
         };
