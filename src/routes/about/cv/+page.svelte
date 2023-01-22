@@ -125,8 +125,8 @@
         content: '';
         display: block;
         margin-left: calc(50% - (25% / 2));
-        margin-top: 20px;
-        margin-bottom: 8px;
+        margin-top: 8px;
+        margin-bottom: 2px;
     }
 </style>
 
