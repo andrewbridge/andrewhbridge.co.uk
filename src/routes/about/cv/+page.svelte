@@ -197,9 +197,9 @@
       <p class="role">Full Stack Engineer</p>
       <p class="period">Jul 2017 - Jan 2019</p>
     </header>
-    <p>At CoInvestor, a fintech start up to manage alternative assets, I developed and maintained the AngularJS SPA as part of, and later a lead in, a six person development team.</p>
+    <p>At CoInvestor, a fintech start-up to manage alternative assets, I developed and maintained the AngularJS SPA as part of, and later a lead in, a six-person development team.</p>
     <ul>
-        <li>Introduced modern best practices to codebase, improving scalability to cope with large datasets</li>
+        <li>Introduced modern best practices to the codebase, improving scalability to cope with large datasets</li>
         <li>Considerably improved development environment for team</li>
         <li>Planned and led initial development of in-place migration between Angular.js and React</li>
         <li>Implemented unit testing for core codebase</li>
@@ -213,14 +213,14 @@
       <p class="role">Web Consultant</p>
       <p class="period">Jul 2015 - Jul 2017</p>
     </header>
-    <p>As part of my role, I was responsible for the management of multiple concurrent web projects and a ten person development team.</p>
+    <p>As part of my role, I was responsible for the management of multiple concurrent web projects and a ten-person development team.</p>
     <ul>
       <li>Providing support to university web publishers through training and discussion</li>
       <li>Implementing new workflows and tooling to improve efficiency and quality of work produced</li>
       <li>Managing and assisting developers, designers and support staff</li>
       <li>Mentoring placement student engineers</li>
       <li>Introducing modern technologies to improve our clients' user experience</li>
-      <li>Decision making requiring understanding of business requirements, web development and inter-team and inter-department communications</li>
+      <li>Decision making requiring an understanding of business requirements, web development and inter-team and inter-department communications</li>
       <li>Competitor and vendor analysis, requirements gathering and management of others for organisation wide CMS implementation.</li>
     </ul>
   </section>
@@ -230,11 +230,11 @@
       <p class="role">Junior Web Developer</p>
       <p class="period">Aug 2013 - Jul 2014</p>
     </header>
-    <p>During my placement year, I developed and provided ongoing updates of bespoke client sites, dealing with sensitive financial information.</p>
+    <p>During my placement year, I developed and provided ongoing updates of bespoke client sites within a 25-person team.</p>
     <ul>
       <li>Developing and maintaining corporate sites for FTSE100 clients</li>
       <li>Collaborating with a development team of 25 developers</li>
-      <li>Producing high quality work in tight deadlines</li>
+      <li>Producing high quality work on tight deadlines</li>
       <li>Handling sensitive financial figures</li>
       <li>Developing rich experiences compatible with legacy users with progressive enhancement</li>
       <li>Led development of a cross-departmental project for the financial and sustainability reports of a large client</li>
@@ -256,20 +256,20 @@
     <ul>
       <li>Implemented new workflows and organisational patterns to improve team communication and efficiency</li>
       <li>Introduced new modern web technologies to improve codebase while maintaining legacy browser support</li>
-      <li>Developing reusable, client editable UX components in an in-house, PHP based content management system</li>
-      <li>Working with others to develop internal and external sites based on client requirements</li>
+      <li>Developed reusable, client editable UX components in an in-house, PHP based content management system</li>
+      <li>Worked with others to develop internal and external sites based on client requirements</li>
       <li>Provision of on-demand technical and UX support for over 500 web publishers</li>
-      <li>Leading workshops for complex Dreamweaver and web best practice concepts for beginner participants</li>
+      <li>Led workshops for complex Dreamweaver and web best practice concepts for beginner participants</li>
   </section>
   <section class="job">
     <header>
       <p class="role">Freelance Web Developer and Consultant</p>
       <p class="period">2006 - 2015</p>
     </header>
-    <p>I've provided freelance web development and consultancy for a wide variety of projects, where I've be responsible for an entire project's lifecycle and follow on support. Client's have included the Cutty Sark museum and Canterbury Christ Church University.</p>
+    <p>I've provided freelance web development and consultancy for a wide variety of projects, where I've been responsible for an entire project's lifecycle and follow-on support. Client's have included the Cutty Sark museum and Canterbury Christ Church University.</p>
     <ul>
-      <li>Provision of solutions for a wide variety of organisations, accomodating for pre-existing workflows</li>
-      <li>Management and undertaking of full project lifecycle</li>
+      <li>Provision of solutions for a wide variety of organisations, accommodating pre-existing workflows</li>
+      <li>Management and undertaking of the full project lifecycle</li>
       <li>Providing a constant line of communication with the client</li>
       <li>Working remotely and as part of a team</li>
       <li>Production of an HTML5 Canvas and pure Javascript 2D game engine</li>
@@ -288,9 +288,9 @@
     <ul>
       <li>Achieved a first-class honours</li>
       <li>Led multiple group projects throughout degree</li>
-      <li>Took management module as part of course</li>
+      <li>Took management module as part of the course</li>
       <li>Adapted to a variety of programming languages and styles</li>
-      <li>Explored computer related law and ethics as part of chosen module</li>
+      <li>Explored computer-related law and ethics as part of chosen module</li>
     </ul>
   </section>
 </section>
