@@ -186,7 +186,7 @@
       <li>Introduced a staged, in-place migration from legacy frontend to Vue.js SPA</li>
       <li>Integrated platform API into a Microsoft Excel plugin, enabling clients to access live data and calculations within the software</li>
       <li>Relaunched the company marketing site, using pre-render builds to improve compatibility, SEO and performance</li>
-      <li>Investigated and began implementation (currently ongoing) of a big data solution to allow for interactive, in-app data interrogation</li>
+      <li>Investigated and began implementation of a big data solution to allow for interactive, in-app data interrogation</li>
       <li>Experience with optimising for and handling large datasets in the frontend</li>
     </ul>
   </section>
@@ -217,7 +217,6 @@
       <li>Providing support to university web publishers through training and discussion</li>
       <li>Implementing new workflows and tooling to improve efficiency and quality of work produced</li>
       <li>Managing and assisting developers, designers and support staff</li>
-      <li>Mentoring placement student engineers</li>
       <li>Introducing modern technologies to improve our clients' user experience</li>
       <li>Decision making requiring understanding of business requirements, web development and inter-team and inter-department communications</li>
       <li>Competitor and vendor analysis, requirements gathering and management of others for organisation wide CMS implementation.</li>
@@ -229,17 +228,14 @@
       <p class="role">Junior Web Developer</p>
       <p class="period">Aug 2013 - Jul 2014</p>
     </header>
-    <p>During my placement year, I developed and provided ongoing updates of bespoke client sites, dealing with sensitive financial information.</p>
+    <p>During my placement year, I developed and provided ongoing updates of bespoke client sites within a 25 person team.</p>
     <ul>
       <li>Developing and maintaining corporate sites for FTSE100 clients</li>
       <li>Collaborating with a development team of 25 developers</li>
       <li>Producing high quality work in tight deadlines</li>
       <li>Handling sensitive financial figures</li>
       <li>Developing rich experiences compatible with legacy users with progressive enhancement</li>
-      <li>Led development of a cross-departmental project for the financial and sustainability reports of a large client</li>
-      <li>Management of several freelancers, delegating sections of the development work, providing guidance where necessary</li>
-      <li>Quality assurance before handing the work back to the client manager</li>
-      <li>Built and presented several time-saving, organisation systems for the entire company</li>
+      <li>Built and presented time-saving, organisation internal systems for the entire company</li>
     </ul>
   </section>
   <section class="job">
@@ -251,13 +247,10 @@
         <span>Nov 2014 - Jul 2015</span>
       </p>
     </header>
-    <p>As a developer in the Web Solutions team, I worked within a team producing client-editable, public facing websites for departments and researchers across the University, while providing on-demand support to the publishers that maintained them.</p>
+    <p>As a developer in the Web Solutions team, I worked within a team producing client-editable, public facing websites for departments and researchers across the University, while providing on-demand support to the 500 publishers that maintained them.</p>
     <ul>
       <li>Implemented new workflows and organisational patterns to improve team communication and efficiency</li>
       <li>Introduced new modern web technologies to improve codebase while maintaining legacy browser support</li>
-      <li>Developing reusable, client editable UX components in an in-house, PHP based content management system</li>
-      <li>Working with others to develop internal and external sites based on client requirements</li>
-      <li>Provision of on-demand technical and UX support for over 500 web publishers</li>
       <li>Leading workshops for complex Dreamweaver and web best practice concepts for beginner participants</li>
   </section>
   <section class="job">
@@ -269,10 +262,8 @@
     <ul>
       <li>Provision of solutions for a wide variety of organisations, accomodating for pre-existing workflows</li>
       <li>Management and undertaking of full project lifecycle</li>
-      <li>Providing a constant line of communication with the client</li>
       <li>Working remotely and as part of a team</li>
       <li>Production of an HTML5 Canvas and pure Javascript 2D game engine</li>
-      <li>Site refresh of an e-commerce site</li>
     </ul>
   </section>
 </section>
