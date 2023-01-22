@@ -168,7 +168,7 @@
     <p>Starting as the only frontend focussed developer, I have continued development of Lickd's core Platform SPA, providing deeper CMS integration for easier content maintenance and playing a key role in scaling the Platform's user discovery features and the team developing it.</p>
     <ul>
       <li>Auditing, overhauling and improving registration and checkout journeys</li>
-      <li>Integrating a headless CMS to allow non-technical staff to key platform user journeys without technical intervention</li>
+      <li>Integrating a headless CMS to allow non-technical staff to maintain key platform user journeys without technical intervention</li>
       <li>Implementing a Creator Dashboard system and foundational work for user personsalisation</li>
       <li>Developing and managing the staggered release of a major site rebrand and content re-organisation</li>
       <li>Introducing Atomic Design methodology and reusability into the codebase</li>
