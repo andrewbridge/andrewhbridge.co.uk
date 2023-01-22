@@ -169,7 +169,7 @@
     <ul>
       <li>Auditing, overhauling and improving registration and checkout journeys</li>
       <li>Integrating a headless CMS to allow non-technical staff to maintain key platform user journeys without technical intervention</li>
-      <li>Implementing a Creator Dashboard system and foundational work for user personsalisation</li>
+      <li>Implementing a Creator Dashboard system and foundational work for user personalisation</li>
       <li>Developing and managing the staggered release of a major site rebrand and content re-organisation</li>
       <li>Introducing Atomic Design methodology and reusability into the codebase</li>
       <li>Establishing project process practices within the team</li>
