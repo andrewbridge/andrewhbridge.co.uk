@@ -201,7 +201,6 @@
     <ul>
         <li>Introduced modern best practices to codebase, improving scalability to cope with large datasets</li>
         <li>Considerably improved development environment for team</li>
-        <li>Planned and led initial development of in-place migration between Angular.js and React</li>
         <li>Implemented unit testing for core codebase</li>
         <li>Experience working with highly sensitive personal and financial data, implementing security/access controls</li>
         <li>Created PDF generation microservice using AWS Lambda functions</li>
@@ -278,7 +277,6 @@
     </header>
     <ul>
       <li>Achieved a first-class honours</li>
-      <li>Led multiple group projects throughout degree</li>
       <li>Took management module as part of course</li>
       <li>Adapted to a variety of programming languages and styles</li>
       <li>Explored computer related law and ethics as part of chosen module</li>
