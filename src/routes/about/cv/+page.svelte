@@ -138,8 +138,8 @@
   <div class="contact-list">
     <ul>
       <li>andrew@andrewhbridge.co.uk</li>
-      <li>andrewhbridge.co.uk</li>
       <li>github.com/andrewbridge</li>
+      <li>andrewhbridge.co.uk</li>
     </ul>
   </div>
 </header>
@@ -164,7 +164,7 @@
       <p class="role">Senior Software Engineer, Lead Software Engineer</p>
       <p class="period">Mar 2021 - current</p>
     </header>
-    <p>Starting as the only frontend focussed developer at Lickd, I have continued development of Lickd's core Platform SPA, providing deeper CMS integration for easier content maintenance and playing a key role in scaling the Platform's user discovery features and the team developing it.</p>
+    <p>Starting as the only frontend focussed developer, I have continued development of Lickd's core Platform SPA, providing deeper CMS integration for easier content maintenance and playing a key role in scaling the Platform's user discovery features and the team developing it.</p>
     <ul>
       <li>Auditing, overhauling and improving registration and checkout journeys</li>
       <li>Implementing a Creator Dashboard system and foundational work for user personsalisation</li>
@@ -180,7 +180,7 @@
       <p class="role">Web Developer</p>
       <p class="period">Feb 2019 - Mar 2021</p>
     </header>
-    <p>As sole web developer at Derivitec, a company offering a risk management solution for derivative assets, I was responsible for the migration and implementation of our cloud based platform's web app, and various API integrations.</p>
+    <p>As sole web developer at Derivitec, a company offering a risk management solution for derivative assets, I managed the migration and implementation of our cloud based platform's web app, website relaunch and various API integrations.</p>
     <ul>
       <li>Implemented dependency management and bundling step into legacy .NET codebase</li>
       <li>Introduced a staged, in-place migration from legacy frontend to Vue.js SPA</li>
@@ -196,7 +196,7 @@
       <p class="role">Full Stack Engineer</p>
       <p class="period">Jul 2017 - Jan 2019</p>
     </header>
-    <p>I worked as a full stack engineer at CoInvestor, a fintech start up to manage alternative assets. I was responsible for developing and maintaining the AngularJS SPA as part of, and later a lead in, a six person development team.</p>
+    <p>At CoInvestor, a fintech start up to manage alternative assets, I developed and maintained the AngularJS SPA as part of, and later a lead in, a six person development team.</p>
     <ul>
         <li>Introduced modern best practices to codebase, improving scalability to cope with large datasets</li>
         <li>Considerably improved development environment for team</li>
@@ -212,7 +212,7 @@
       <p class="role">Web Consultant</p>
       <p class="period">Jul 2015 - Jul 2017</p>
     </header>
-    <p>As part of my role as a Web Consultant at the University of Kent, I was responsible for the management of multiple concurrent web projects and a ten person development team.</p>
+    <p>As part of my role, I was responsible for the management of multiple concurrent web projects and a ten person development team.</p>
     <ul>
       <li>Providing support to university web publishers through training and discussion</li>
       <li>Implementing new workflows and tooling to improve efficiency and quality of work produced</li>
@@ -229,7 +229,7 @@
       <p class="role">Junior Web Developer</p>
       <p class="period">Aug 2013 - Jul 2014</p>
     </header>
-    <p>As part of my placement year as a Junior Web Developer at Addison Group, I was responsible for the development and maintenance of bespoke client sites, dealing with sensitive financial information.</p>
+    <p>During my placement year, I developed and provided ongoing updates of bespoke client sites, dealing with sensitive financial information.</p>
     <ul>
       <li>Developing and maintaining corporate sites for FTSE100 clients</li>
       <li>Collaborating with a development team of 25 developers</li>
@@ -251,7 +251,7 @@
         <span>Nov 2014 - Jul 2015</span>
       </p>
     </header>
-    <p>During my time as a Web Developer at the University of Kent, I was responsible for producing client-editable, public facing websites for departments and researchers across the University, while providing on-demand support to the publishers that maintained them.</p>
+    <p>As a developer in the Web Solutions team, I worked within a team producing client-editable, public facing websites for departments and researchers across the University, while providing on-demand support to the publishers that maintained them.</p>
     <ul>
       <li>Implemented new workflows and organisational patterns to improve team communication and efficiency</li>
       <li>Introduced new modern web technologies to improve codebase while maintaining legacy browser support</li>
