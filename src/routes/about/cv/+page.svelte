@@ -121,11 +121,12 @@
     .job:not(:last-child):after {
         width: 25%;
         height: 1px;
-        background: #000000;
-        content: '\00A0';
-        display: inline-flex;
+        border-bottom: 1px solid #000000;
+        content: '';
+        display: block;
         margin-left: calc(50% - (25% / 2));
-        margin-top: 3px;
+        margin-top: 20px;
+        margin-bottom: 8px;
     }
 </style>
 
