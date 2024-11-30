@@ -29,6 +29,7 @@
 	"dependencies": {
 		"html-entities": "^2.3.3",
 		"jsdom": "^20.0.3",
-		"prismjs": "^1.29.0"
+		"prismjs": "^1.29.0",
+		"marked": "^15.0.3"
 	}
 }
