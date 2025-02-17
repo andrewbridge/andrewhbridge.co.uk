@@ -1,5 +1,5 @@
 <style>
-    
+
     img, :global(html.light) img {
         border-radius: 200px;
         width: 200px;
@@ -17,7 +17,7 @@
         :global(html) img {
             border-color: var(--background-colour);
             background-color: whitesmoke;
-        }   
+        }
     }
 </style>
 
