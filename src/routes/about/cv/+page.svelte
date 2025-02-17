@@ -161,9 +161,22 @@
   <h2>Professional experience</h2>
   <section class="job">
     <header>
+      <p class="company">BBC</p>
+      <p class="role">Senior Software Engineer</p>
+      <p class="period">Jun 2023 - current</p>
+    </header>
+    <p>Working in the Broadcast & End User Technology department initially to develop a strategy for supporting citizen developers within the BBC.</p>
+    <ul>
+      <li>Competitor analysis to inform Citizen Developer strategy</li>
+      <li>Taking over and improving a data pipeline solution for the Business Analysis team</li>
+      <li>Working as part of a cross-departmental collaboration to prototype new solutions to facilitate media and broadcast</li>
+    </ul>
+  </section>
+  <section class="job">
+    <header>
       <p class="company">Lickd</p>
       <p class="role">Senior Software Engineer, Lead Software Engineer</p>
-      <p class="period">Mar 2021 - current</p>
+      <p class="period">Mar 2021 - May 2023</p>
     </header>
     <p>Starting as the only frontend focussed developer, I have continued development of Lickd's core Platform SPA, providing deeper CMS integration for easier content maintenance and playing a key role in scaling the Platform's user discovery features and the team developing it.</p>
     <ul>
