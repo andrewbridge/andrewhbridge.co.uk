@@ -27,6 +27,10 @@
         margin-bottom: 0.5em;
         font-style: italic;
     }
+
+    .entries .entry {
+        position: relative;
+    }
   
     @media (min-width: 768px) {
         .latest {
@@ -48,7 +52,6 @@
         }
         .latest .blog .entries .entry {
             width: 47.5%;
-            position: relative;
         }
         .latest .blog .entries .entry:first-child {
             width: 100%;
