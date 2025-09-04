@@ -324,7 +324,10 @@
     <li>Java</li>
     <li>.NET Core</li>
     <li>Node.js</li>
-    <li>Lambda functions</li>
+    <li>Python</li>
+    <li>AWS Glue</li>
+    <li>AWS Lambda</li>
+    <li>AWS CDK and infrastructure</li>
     <li>Linux</li>
     <li>Git</li>
     <li>Bash</li>
