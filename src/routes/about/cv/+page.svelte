@@ -167,9 +167,10 @@
     </header>
     <p>Working in the Broadcast & End User Technology department initially to develop a strategy for supporting citizen developers within the BBC.</p>
     <ul>
-      <li>Competitor analysis to inform Citizen Developer strategy</li>
-      <li>Taking over and improving a data pipeline solution for the Business Analysis team</li>
-      <li>Working as part of a cross-departmental collaboration to prototype new solutions to facilitate media and broadcast</li>
+      <li>Investigation and planning for no-code/low-code "Citizen Developer" strategy</li>
+      <li>Rearchitecting a data reporting and automation pipeline with a cloud native solution</li>
+      <li>Working as part of a cross-departmental collaboration to prototype new solutions to facilitate audio media supply chain</li>
+      <li>Research and consultancy for an AI/ML document enrichment prototype</li>
     </ul>
   </section>
   <section class="job">
