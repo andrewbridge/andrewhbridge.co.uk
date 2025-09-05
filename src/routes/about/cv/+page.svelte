@@ -149,12 +149,14 @@
   <ul class="two-column">
     <li>Strong understanding of Javascript and Typescript</li>
     <li>Adaptable between multiple modern JS frameworks</li>
+    <li>Developing and maintaining Python libraries</li>
     <li>Experience working with Agile practices</li>
     <li>Working with various forms of codebase testing</li>
     <li>Requirement gathering</li>
     <li>Strong collaborative skills</li>
     <li>Developing and interacting with RESTful APIs</li>
     <li>Experience with Node.js microservices</li>
+    <li>Building cloud native solutions on AWS</li>
   </ul>
 </section>
 <section>
