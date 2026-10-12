@@ -145,7 +145,7 @@
   </div>
 </header>
 <section>
-  <p>Principal Software Engineer at the BBC with 20 years of experience building for the web, from front end platforms to cloud native data systems. I set technical direction and architecture for broadcast technology and sustainability work, and I'm currently deepening my data science and machine learning expertise through an AI & ML apprenticeship.</p>
+  <p>Principal Software Engineer at the BBC with 20 years of experience building for the web, from front end platforms to cloud native data systems. I set technical direction and architecture for broadcast technology and sustainability work, and I'm currently studying a Level 7 AI & ML apprenticeship and applying it to energy forecasting and anomaly detection for BBC buildings.</p>
 </section>
 <section>
   <h2>Key skills</h2>
@@ -173,7 +173,8 @@
     <p>Working in the Broadcast & End User Technology department, originally developing a strategy for supporting citizen developers within the BBC and now setting technical strategy and architecture for cloud native solutions across broadcast technology and sustainability.</p>
     <ul>
       <li>Setting technical strategy and architecture for cloud native broadcast technology and sustainability projects</li>
-      <li>Leading development of a carbon impact dashboard for BBC buildings, starting with PDU power data captured and aggregated with Prometheus, stored in Mimir and combined with the Carbon Intensity API</li>
+      <li>Leading a carbon impact project for BBC buildings, starting at Cardiff Central Square: capturing power and temperature from ~1,000 PDUs over SNMP (~4M readings a month), analysed with DuckDB and Parquet and combined with grid carbon intensity data to highlight unnecessary power use</li>
+      <li>Building forecasting, anomaly detection and data synthesis models to project energy use over longer periods and for uninstrumented buildings, with long-term capture via Prometheus and Mimir</li>
       <li>Investigation and planning for no-code/low-code "Citizen Developer" strategy</li>
       <li>Rearchitecting a data reporting and automation pipeline with a cloud native solution</li>
       <li>Working as part of a cross-departmental collaboration to prototype new solutions to facilitate audio media supply chain</li>
@@ -256,9 +257,13 @@
   <section class="job">
     <header>
       <p class="company">BBC</p>
-      <p class="role">AI & Machine Learning Data Scientist Apprenticeship</p>
+      <p class="role">Level 7 AI & Machine Learning Apprenticeship (Masters level)</p>
       <p class="period">In progress</p>
     </header>
+    <ul>
+      <li>Studying alongside my Principal Engineer role, covering regression, classification, ensemble methods (gradient boosting, XGBoost, stacking), clustering and time series forecasting</li>
+      <li>Applying the coursework to the BBC's building energy data for forecasting, simulation and device classification</li>
+    </ul>
   </section>
   <section class="job">
     <header>
@@ -285,8 +290,11 @@
     <li>Python</li>
     <li>pandas</li>
     <li>scikit-learn</li>
+    <li>XGBoost</li>
     <li>Jupyter</li>
-    <li>Machine learning algorithms</li>
+    <li>DuckDB</li>
+    <li>Parquet</li>
+    <li>Time series forecasting</li>
     <li>Local LLMs</li>
     <li>AWS CDK</li>
     <li>AWS Lambda</li>
