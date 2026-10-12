@@ -173,7 +173,7 @@
     <p>Working in the Broadcast & End User Technology department, originally developing a strategy for supporting citizen developers within the BBC and now setting technical strategy and architecture for cloud native solutions across broadcast technology and sustainability.</p>
     <ul>
       <li>Setting technical strategy and architecture for cloud native broadcast technology and sustainability projects</li>
-      <li>Leading a carbon impact project for BBC buildings, starting at Cardiff Central Square: capturing power and temperature from ~1,000 PDUs over SNMP (~4M readings a month), analysed with DuckDB and Parquet and combined with grid carbon intensity data to highlight unnecessary power use</li>
+      <li>Leading a carbon impact project for BBC buildings, capturing power data from building infrastructure and combining it with grid carbon intensity data to highlight unnecessary power use</li>
       <li>Building forecasting, anomaly detection and data synthesis models to project energy use over longer periods and for uninstrumented buildings, with long-term capture via Prometheus and Mimir</li>
       <li>Investigation and planning for no-code/low-code "Citizen Developer" strategy</li>
       <li>Rearchitecting a data reporting and automation pipeline with a cloud native solution</li>
