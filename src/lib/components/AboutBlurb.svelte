@@ -12,7 +12,7 @@
 
 
 <p>Hi! I'm Andrew Bridge.</p>
-<p>I'm a web developer and consultant, currently working in South East England.</p>
+<p>I'm a Principal Software Engineer at the BBC, based in South East England.</p>
 {#if isMain}
 <p>The web has always been an exciting platform to work with. Ever-evolving, hugely open and abundantly available,
   the web is bursting with possibilities. But with it come some interesting pitfalls.
